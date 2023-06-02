@@ -8,7 +8,7 @@
 ![Final Report](https://github.com/stonehard0208/style_transfer_semantic_segmentation_image_captioning_pytorch/blob/da7951a64a62518251d95b6f7dcfa81152c6a7ac/COMP_646_Final_Project_Report%20(1)-3.jpg)
 
 
-![Final Report](COMP_646_Final_Project_Report (1)-4.jpg)
+![Final Report](https://github.com/stonehard0208/style_transfer_semantic_segmentation_image_captioning_pytorch/blob/324cfbc2025658fef5aae9ed3564bb8cf04d9fc0/COMP_646_Final_Project_Report%20(1)-4.jpg)
 
 
 ![Final Report](COMP_646_Final_Project_Report (1)-5.jpg)
