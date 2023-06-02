@@ -1,0 +1,2 @@
+# style_transfer_semantic_segmentation_image_captioning_pytorch
+A project combining style transfer, semantic segmentation and image captioning together
