@@ -1,5 +1,5 @@
 # Final Report
-![Final Report]((https://github.com/stonehard0208/style_transfer_semantic_segmentation_image_captioning_pytorch/blob/117870a34b5b5159e850cea20d9a079fe0e79f70/COMP_646_Final_Project_Report%20(1)-1.jpg))
+![Final Report](https://github.com/stonehard0208/style_transfer_semantic_segmentation_image_captioning_pytorch/blob/117870a34b5b5159e850cea20d9a079fe0e79f70/COMP_646_Final_Project_Report%20(1)-1.jpg)
 
 
 ![Final Report](COMP_646_Final_Project_Report (1)-2.jpg)
