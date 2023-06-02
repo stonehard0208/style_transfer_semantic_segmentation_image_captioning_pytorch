@@ -1,2 +1,2 @@
-# style_transfer_semantic_segmentation_image_captioning_pytorch
-A project combining style transfer, semantic segmentation and image captioning together
+# Final Report
+[Final Report](COMP_646_Final_Project_Report (1).pdf)
